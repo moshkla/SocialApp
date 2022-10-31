@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "297048365150",
+    "firebase_url": "https://mazzika-37770.firebaseio.com",
+    "project_id": "mazzika-37770",
+    "storage_bucket": "mazzika-37770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297048365150:android:67cf08d4d28877ad8bfccf",
+        "android_client_info": {
+          "package_name": "com.example.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297048365150-639aos4gnfusss1mpe6p0o16ijebqsdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social",
+            "certificate_hash": "8b2b6f3dc01b3559917394c08b563999e19d7119"
+          }
+        },
+        {
+          "client_id": "297048365150-d0nr5gfio821dgb9iko7goqe5fhidnp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7E_W0nESnKiVJS6eVqMhQttkMqOlk4EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297048365150-d0nr5gfio821dgb9iko7goqe5fhidnp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

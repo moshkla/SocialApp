@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>297048365150-e6ju69e0q8m7jao5tctamivfb2df4bn1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.297048365150-e6ju69e0q8m7jao5tctamivfb2df4bn1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>297048365150-639aos4gnfusss1mpe6p0o16ijebqsdj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJ1RUkCxVOrWJfPCEJLje0Us8jAJDyqdY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>297048365150</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.social</string>
+	<key>PROJECT_ID</key>
+	<string>mazzika-37770</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mazzika-37770.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:297048365150:ios:01bfbdcb1c6bebf28bfccf</string>
+	<key>DATABASE_URL</key>
+	<string>https://mazzika-37770.firebaseio.com</string>
+</dict>
+</plist>
