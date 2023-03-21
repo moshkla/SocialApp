@@ -39,7 +39,7 @@ dependencies:
   conditional_builder_null_safety: ^0.0.6
   bloc: ^8.0.1
   flutter_bloc: ^8.0.0
-  dio: ^4.0.4
+  dio: ^5.0.3
   hexcolor: ^2.0.5
   shared_preferences: ^2.0.11
   webview_flutter: ^2.0.4
